@@ -1,0 +1,45 @@
+ body{
+  text-align:center;
+  background-color:green;
+}
+#p1{
+  font-weight:bold;
+  font-size:50px;
+  color:brown;
+}
+#p2{
+  font-size:30px;
+  color:Brown;
+  font-weight:bold;
+}
+#imgdrums{
+  width:250px;
+  border-style:solid;
+  border-color:whitesmoke;
+  padding:13px;
+  border-radius:100px;
+}
+#imgreading{
+  width:250px;
+  height:165px;
+  border-style:solid;
+  border-color:whitesmoke;
+  padding:13px;
+  border-radius:100px;
+}
+#imgcoding{
+  width:250px;
+  height:165px;
+  border-style:solid;
+  border-color:whitesmoke;
+  padding:13px;
+  border-radius:100px;
+}
+#p3{
+  font-weight:bold;
+  font-size:30px;
+  color:purple;
+}
+#pp{
+  text-align:left;
+}
